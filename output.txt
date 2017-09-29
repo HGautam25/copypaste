@@ -1,0 +1,2 @@
+Resources need to be in this folder
+clipboard

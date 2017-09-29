@@ -1,0 +1,17 @@
+{
+  "name": "copypaste",
+  "version": "1.0.0",
+  "description": "Multiple copy paste application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "Copy paste",
+    "Multiple"
+  ],
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
